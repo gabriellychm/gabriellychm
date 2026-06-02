@@ -1,8 +1,7 @@
 ### Olá! Me chamo Gabrielly 👋
 
 <p align="center">
-  <img height="180em" src="https://ghstats.dev/api?username=gabriellychm&show_icons=true" />
-  <img height="180em" src="https://ghstats.dev/api/top-langs?username=gabriellychm&layout=compact" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabriellychm&theme=github-dark" />
 </p>
 
 <p align="center">
